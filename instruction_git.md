@@ -78,4 +78,6 @@ git log --oneline --all
 
     git branch <branch_name>
     
+## Новый заголовок "Удаление веток"
 
+......
