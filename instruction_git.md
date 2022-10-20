@@ -84,4 +84,6 @@ git log --oneline --all
 
     git branch -d <branch_name>
 
+## Новый заголовок "Слияние"
 
+.....
