@@ -78,4 +78,9 @@ git log --oneline --all
 
     git branch <branch_name>
     
+### Удаление веток
+
+Для удаления ветки необходимо использовать команду:
+
+    git branch -d <branch_name>
 
